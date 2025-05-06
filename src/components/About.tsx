@@ -9,7 +9,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 mx-auto overflow-hidden rounded-full border-4 border-purple-500">
                 <img
-                  src="photogweh.jpg"
+                  src="WhatsApp Image 2025-03-15 at 00.39.02_65c444a6.jpg"
                   alt="Artist Portrait"
                   className="w-full h-full object-cover"
                 />
