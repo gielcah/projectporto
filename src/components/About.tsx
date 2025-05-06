@@ -23,7 +23,7 @@ const About: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-bold mb-6">About the Artist</h2>
             
             <p className="text-gray-700 mb-4">
-              Hello! I'm Riszzzu, an illustrator and character designer with over 7 years of experience in the anime and manga industry. My journey began in Tokyo, where I studied traditional Japanese art techniques before blending them with modern digital approaches.
+              Hello! I'm Riszzzu, an illustrator and character designer with over 3 years of experience in the anime and manga industry. My journey began in Tokyo, where I studied traditional Japanese art techniques before blending them with modern digital approaches.
             </p>
             
             <p className="text-gray-700 mb-6">
