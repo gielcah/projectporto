@@ -10,6 +10,7 @@ const About: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 mx-auto overflow-hidden rounded-full border-4 border-purple-500">
                 <img
                   src="photogweh.jpg"
+                  alt="Artist Portrait"
                   className="w-full h-full object-cover"
                 />
               </div>
